@@ -1,7 +1,6 @@
 {
   "name": "moviedex-api",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,10 +19,14 @@
   },
   "homepage": "https://github.com/thinkful-ei-dragonfly/Jonathan_Emily_Moviedex#readme",
   "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
     "express": "^4.17.1",
+    "helmet": "^3.18.0",
     "morgan": "^1.9.1"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
-  }
+  },
+  "description": ""
 }
