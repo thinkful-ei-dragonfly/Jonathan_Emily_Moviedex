@@ -21,6 +21,7 @@
   "homepage": "https://github.com/thinkful-ei-dragonfly/Jonathan_Emily_Moviedex#readme",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
     "express": "^4.17.1",
     "helmet": "^3.18.0",
     "morgan": "^1.9.1"
